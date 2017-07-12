@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <style type="text/css">
+    svg { background-color: hsl(0 0% 10%) }
+    path { fill: white }
+  </style>
+  <path d="M736 128h160v320L736 288zM736 448H576V128l160 160zM448 128 288 288 128 128v320h320zM736 736V576H576v320h320V736zM448 576 288 736 128 576v320h320z"/>
+</svg>
